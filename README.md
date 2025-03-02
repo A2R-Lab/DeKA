@@ -1,5 +1,4 @@
-# DeKA: The Deterministic Kaczmarz Algorithm with Greedy Selection
-and Smoothing for Online Inertial Parameter Estimation
+# DeKA: The Deterministic Kaczmarz Algorithm with Greedy Selection and Smoothing for Online Inertial Parameter Estimation
 
 ### Overview
 This project implements an **online parameter estimation algorithm** leveraging the **Kaczmarz method** to address overdetermined system identification problems efficiently. Our algorithm is compared with traditional 
