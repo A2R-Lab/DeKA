@@ -1,4 +1,5 @@
-# Online Parameter Estimation Using the Kaczmarz Method
+# DeKA: The Deterministic Kaczmarz Algorithm with Greedy Selection
+and Smoothing for Online Inertial Parameter Estimation
 
 ### Overview
 This project implements an **online parameter estimation algorithm** leveraging the **Kaczmarz method** to address overdetermined system identification problems efficiently. Our algorithm is compared with traditional 
@@ -14,5 +15,5 @@ parameter estimation methods like RLS and Kalman Filter.
 - Reduced computational overhead compared to traditional recursive/batch methods.
 
 ### Status
-- **Current Stage**: Algorithm development and testing in simulation.
-- **Next Steps**: Expanding use cases to include physical robotic systems and preparing for submission to RSS 2025.
+- **Current Stage**: Code cleanup.
+- **Next Steps**: C++ implementation and testing in hardware.
